@@ -14,5 +14,7 @@ git merge <branchname> // merge into  master,so must be in master branch
 
 git push origin <branchname>
 
+git checkout <commit hash> <filename> // for reverting back to a previous version of a file
+
 
 **git fetch=similar to pull but repos are copiued in a separate branch and hence must be merged to master
