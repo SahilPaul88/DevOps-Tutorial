@@ -5,3 +5,6 @@ git status // used to check the status of the files(modified,uncommited,ready to
 git add -A // used to add multiple files in one go
 git commit -m -a "commit message" //it's necesaary to add a commit message
 git log // contains history of commits along with the hash
+
+git branch <branchname>
+git checkout <branchname> // switches to the specified branch
