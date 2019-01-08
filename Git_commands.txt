@@ -1,0 +1,6 @@
+git init // creates an empty repo
+git add origin "URL" //adds the link of the github repo 
+git pull origin master //pulls files from remote server(github in this case)
+git status // used to check the status of the files(modified,uncommited,ready to be commited and so on)
+git add -A // used to add multiple files in one go
+git commit -m -a "commit message" //it's necesaary to add a commit message
