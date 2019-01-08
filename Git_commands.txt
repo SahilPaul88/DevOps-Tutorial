@@ -8,3 +8,5 @@ git log // contains history of commits along with the hash
 
 git branch <branchname>
 git checkout <branchname> // switches to the specified branch
+
+git merge <branchname> // merge into  master,so must be in master branch
