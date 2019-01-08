@@ -1,3 +1,5 @@
+List of GIT commands
+
 git init // creates an empty repo
 git add origin "URL" //adds the link of the github repo 
 git pull origin master //pulls files from remote server(github in this case)
@@ -8,3 +10,8 @@ git log // contains history of commits along with the hash
 
 git branch <branchname>
 git checkout <branchname> // switches to the specified branch
+
+
+
+
+
